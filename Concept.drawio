@@ -76,7 +76,37 @@
         </UserObject>
         <UserObject label="Secretary" placeholders="1" id="uIZpm6JO_vB3XlZ1z3fN-16">
           <mxCell parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1">
-            <mxGeometry height="20" width="160" x="180" y="1000" as="geometry" />
+            <mxGeometry height="20" width="160" x="230" y="1040" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;wife&lt;/div&gt;" placeholders="1" id="uIZpm6JO_vB3XlZ1z3fN-17">
+          <mxCell parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1">
+            <mxGeometry height="20" width="160" x="60" y="960" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="me" placeholders="1" id="uIZpm6JO_vB3XlZ1z3fN-18">
+          <mxCell parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1">
+            <mxGeometry height="20" width="160" x="254" y="960" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="email filtering agant" placeholders="1" id="uIZpm6JO_vB3XlZ1z3fN-19">
+          <mxCell parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1">
+            <mxGeometry height="20" width="160" x="40" y="640" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="reminder for task" placeholders="1" id="uIZpm6JO_vB3XlZ1z3fN-20">
+          <mxCell parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1">
+            <mxGeometry height="20" width="160" x="200" y="640" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Kokoro" placeholders="1" id="uIZpm6JO_vB3XlZ1z3fN-21">
+          <mxCell parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1">
+            <mxGeometry height="20" width="160" x="310" y="1040" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Secretary" placeholders="1" id="uIZpm6JO_vB3XlZ1z3fN-22">
+          <mxCell parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1">
+            <mxGeometry height="20" width="160" x="120" y="680" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
