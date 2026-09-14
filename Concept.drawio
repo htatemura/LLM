@@ -109,6 +109,11 @@
             <mxGeometry height="20" width="160" x="120" y="680" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="Advisor" placeholders="1" id="uIZpm6JO_vB3XlZ1z3fN-23">
+          <mxCell parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1">
+            <mxGeometry height="20" width="160" x="150" y="1040" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
