@@ -13,7 +13,7 @@
         <mxCell id="trx1T0uKjqPnUnF0i4zy-3" parent="trx1T0uKjqPnUnF0i4zy-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Take only counceling" vertex="1">
           <mxGeometry height="30" width="140" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="trx1T0uKjqPnUnF0i4zy-4" parent="trx1T0uKjqPnUnF0i4zy-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Item 3" vertex="1">
+        <mxCell id="trx1T0uKjqPnUnF0i4zy-4" parent="trx1T0uKjqPnUnF0i4zy-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="(5 steps) ex batch" vertex="1">
           <mxGeometry height="30" width="140" y="90" as="geometry" />
         </mxCell>
       </root>
